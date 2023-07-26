@@ -2,7 +2,7 @@
 
 This document outlines the development and implementation of a reinforcement learning model for playing the classic game "Super Mario Bros." The model is built using Jupyter Notebook and utilizes the following libraries: gym, PyTorch, and stable-baselines3.
 
-
+![](mario.png)
 
 ## Introduction
 
